@@ -1,2 +1,3 @@
 SO HELLO TO EVERYONE THIS THE FIRST REPO WHICH I HAVE CREATED AND I WILL TRY TO PUSH EVERY DAY SOMETHING NEW THIS REPO, WHILE I LEARN C LANGUAGE FROM BASICS TO ADVANCE
 So today I learned structure of basic code and comments.
+And i created a new file holding my basic info after learning print function in C today.

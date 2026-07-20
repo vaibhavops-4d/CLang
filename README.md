@@ -3,3 +3,4 @@ So today I learned structure of basic code and comments.
 And i created a new file holding my basic info after learning print function in C today.
 And I have created a file two add to numbers from user input
 Today I created two programs for area
+Today created a simple calculator for Arithmetic operations
